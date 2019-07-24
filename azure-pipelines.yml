@@ -12,7 +12,7 @@ pool:
 
 variables:
     azureSubscriptionEndpoint: finservrg
-    azureContainerRegistry: jpworkshop.azurecr.io
+    azureContainerRegistry: rokodevopsdemo.azurecr.io
     Build.Repository.Name: sanjshah2001/sentimentanalysis
     Image: timeseries
     
